@@ -10,8 +10,8 @@ I explore Firmware AI, offline-first systems, and sustainable design — tying t
 ## Featured
 - **Foundations:** [Firmware AI — Cloud as a library](/foundations/firmware-ai-cloud-library/)
 - **Applied Works:** [Offline-first SaaS for the Global South](/projects/offline-first-saas-global-south/)
-- **Exploring Frontiers (Independent):** [Energy-aware ML](/research/independent/energy-aware-ml/)
-- **Exploring Frontiers (Companies):** [Microsoft vs Google vs Tesla](/research/companies/microsoft-google-tesla-visions/)
+- **Exploring Frontiers (Independent):** [Energy-aware ML](/research/independent_search/energy-aware-ml/)
+- **Exploring Frontiers (Companies):** [Microsoft vs Google vs Tesla](/research/tech-current-leader/microsoft-google-tesla-visions/)
 - **Ethics & Ecology:** [Ethics and ecology are inseparable in tech](/ethics/interdependence-ethics-ecology/)
 - **Everyday Insights:** [Studying deep math](/life/studying-deep-math/)
 
