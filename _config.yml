@@ -47,3 +47,14 @@ defaults:
       layout: page
       subsection: "tech-current-leader"
 
+sass:
+  style: compressed
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      css: "/assets/css/style.css"
+
+
