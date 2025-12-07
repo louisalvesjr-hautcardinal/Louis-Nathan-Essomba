@@ -1,5 +1,5 @@
-title: "Louis Nathan Essomba : When Human Intelligence Meets Technology"
-description: "Thesis & vision, applied works, research, ethics & ecology, everyday insights."
+title: "Louis Nathan Essomba — Integrating Human Intelligence and Responsible Technology"
+description: "Research and development at the intersection of firmware, machine learning, and sustainable design. Thesis, applied systems, ethical reflection, and practical insights."
 theme: minima
 markdown: kramdown
 plugins:
@@ -9,14 +9,25 @@ plugins:
 sass:
   style: compressed
 
+# Default values for collections and post pages
 defaults:
   - scope:
       path: ""
       type: "posts"
     values:
       css: "/assets/css/style.css"
+  - scope:
+      path: "_research/independent_search"
+    values:
+      layout: page
+      subsection: "independent_search"
+  - scope:
+      path: "_research/tech-current-leader"
+    values:
+      layout: page
+      subsection: "tech-current-leader"
 
-# Navigation pages (we’ll create these in Step 6)
+# Navigation pages
 header_pages:
   - index.md
   - foundations.md
@@ -43,17 +54,4 @@ collections:
   life:
     output: true
     permalink: /life/:name/
-
-# Subsections for research (we’ll handle with folder names)
-defaults:
-  - scope:
-      path: "_research/independent_search"
-    values:
-      layout: page
-      subsection: "independent_search"
-  - scope:
-      path: "_research/tech-current-leader"
-    values:
-      layout: page
-      subsection: "tech-current-leader"
 
